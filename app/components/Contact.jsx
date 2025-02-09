@@ -5,7 +5,7 @@ export default function Contact() {
     { icon: Phone, text: "+91-9604122508", href: "tel:+919604122508" },
     { icon: Mail, text: "rudrakshakadam04@gmail.com", href: "mailto:rudrakshakadam04@gmail.com" },
     { icon: Linkedin, text: "linkedin.com/in/rudraksha", href: "https://linkedin.com/in/rudraksha" },
-    { icon: GitHub, text: "github.com/rudraksha", href: "https://github.com/kadamrudraksha" },
+    { icon: GitHub, text: "github.com/kadamrudraksha", href: "https://github.com/kadamrudraksha" },
   ]
 
   return (
